@@ -11,14 +11,6 @@
 
 @implementation AESHelper
 
-/**
- *  Decryption for string encrypted with AES 128 ECB and key length of 128 bits.
- *
- *  @param encryptedBase64String Encrypted string encoded in Base64
- *  @param key                   Key length of 16 characters in UTF-8
- *
- *  @return Plain text
- */
 + (NSString *)decryptBase64:(NSString *)encryptedBase64String withKey:(NSString *)key {
 
     char keyBytes[key.length+1];
