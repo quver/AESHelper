@@ -1,9 +1,9 @@
 AESHelper
 =========
+[![GitHub release](https://img.shields.io/github/release/quver/AESHelper.svg)]()
+[![GitHub license](https://img.shields.io/github/license/quver/AESHelper.svg)]()
 
-AES Encryptor for iOS and OS X
-
-# Basic usage
+### Basic usage
 
 ```objective-c
 
