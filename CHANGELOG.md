@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.1](https://github.com/quver/AESHelper/tree/1.1.1) (2016-07-03)
+[Full Changelog](https://github.com/quver/AESHelper/compare/v1.0.0...1.1.1)
+
 ## [v1.0.0](https://github.com/quver/AESHelper/tree/v1.0.0) (2016-04-06)
 [Full Changelog](https://github.com/quver/AESHelper/compare/v1.1.0...v1.0.0)
 
